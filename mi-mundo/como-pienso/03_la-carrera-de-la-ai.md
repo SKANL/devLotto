@@ -110,7 +110,7 @@ Pero eso no fue todo:
 
 - **AlphaCode** logró un nivel competitivo en concursos de programación, resolviendo problemas novedosos que requieren pensamiento crítico, creatividad y lógica avanzada.
 
-- **AlphaMissense** fue presentado, una IA capaz de categorizar el **89% de las 71 millones de posibles variantes genéticas** como probablemente patógenas o probablemente benignas.
+- **AlphaMissense (2023)** fue presentado, una IA capaz de categorizar el **89% de las 71 millones de posibles variantes genéticas** como probablemente patógenas o probablemente benignas.
 
 Para darte contexto: antes de AlphaMissense, los expertos humanos solo habían logrado confirmar el **0.1%** de estas variantes. Esto tiene el potencial de acelerar masivamente el diagnóstico genético y el tratamiento de enfermedades raras.
 
