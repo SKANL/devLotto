@@ -1,5 +1,27 @@
 # Mi Visión Sobre la AI (Para Programación)
 
+## El Puente Entre la Teoría y la Práctica
+
+Acabas de aprender **cómo hablarle a la IA** (Ingeniería de Contexto). Ahora sabes estructurar prompts, dar contexto explícito, y evitar las trampas comunes.
+
+Pero aquí está el detalle que nadie te dice:
+
+**Las herramientas que usarás no existían hace 2 años. Y las que existen hoy, cambiarán en 6 meses.**
+
+Por eso, antes de mostrarte técnicas específicas y plantillas de prompts (que encontrarás en la carpeta `prompts-que-me-funcionan/`), necesitas entender algo fundamental:
+
+> **El ecosistema de herramientas de IA está evolucionando más rápido que cualquier tecnología en la historia.**
+
+Si solo aprendes "cómo usar ChatGPT hoy", estarás obsoleto en 6 meses.
+
+Pero si entiendes **por qué** estas herramientas existen, **cómo** están evolucionando, y **qué patrones** están emergiendo, podrás adaptarte a cualquier herramienta que salga mañana.
+
+**Esa es la diferencia entre aprender a pescar y que te den un pez.**
+
+Así que antes de sumergirnos en prompts específicos, déjame contarte mi historia y mostrarte el panorama completo.
+
+---
+
 ## La Confesión de un Programador Entre dos Eras
 
 **Antes de empezar, debo confesarte algo.**
